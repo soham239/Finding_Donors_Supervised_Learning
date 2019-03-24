@@ -1,0 +1,5 @@
+Solving the classification problem (Supervised Learning) for predicting category of income (less than 50k or more than 50k) for an individual to help identify if he can be approached for charity.
+Features for classification include race, sex, age, education_level, marital_status and many others.
+Evaluation metrics include Precision, Recall, F-score and F_beta_score.
+Comparative analysis of Logistic Regression, Decision Tree Classifier and Random Forest Classifier for given problem.
+Training on reduced dataset by using feature selection to determine the most relevant features.
